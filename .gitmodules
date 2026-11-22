@@ -1,0 +1,3 @@
+[submodule "idb/pyidbutil"]
+	path = idb/pyidbutil
+	url = https://github.com/nlitsme/pyidbutil
